@@ -1,0 +1,15 @@
+mixed-port: 7890
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: 0.0.0.0:9090
+proxies:
+  - {"type":"ss","name":"milad","server":"37.32.21.51","port":12345,"cipher":"aes-256-gcm","password":"miladbila123"}
+proxy-groups:
+  - name: main
+    type: select
+    proxies:
+      - milad
+      - DIRECT
+rules:
+  - DOMAIN,ckgsir.com,DIRECT
