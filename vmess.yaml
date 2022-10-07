@@ -1,2 +1,34 @@
 proxies:
-  - {"type":"vmess","name":"@VMESSIRANسرورانگلستان14مهر💥🇬🇧","ws-opts":{"path":"/"},"server":"64.227.43.168","port":"80","uuid":"07d3c132-e8b6-4685-b436-ffa3a8e2e82b","alterId":"0","cipher":"auto","network":"ws"}
+  - {name: https://t.me/dafeiji100, server: ru1.lolvps.xyz, port: 50717, type: vmess, uuid: 2b8e4fc6-0112-4b26-8c17-1bfef9a3ff99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /6129CFHR, headers: {Host: ru1.lolvps.xyz}}}
+  - {name: https://t.me/dafeiji100 2, server: 144.24.92.192, port: 443, type: vmess, uuid: 1743c2d9-bad1-4485-95a8-897145f09812, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 3, server: powerservice.com, port: 443, type: vmess, uuid: 0764a598-82c4-4b41-ba10-551a625beed5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /sshocean, headers: {Host: uk2.v2rayserv.com}}}
+  - {name: https://t.me/dafeiji100 4, server: 38.143.66.20, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: https://t.me/dafeiji100 5, server: 172.99.188.71, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: https://t.me/dafeiji100 6, server: 172.99.188.71, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: https://t.me/dafeiji100 7, server: 172.99.188.71, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: https://t.me/dafeiji100 8, server: youtube-bai-piao-wang-zhe-us.98848.xyz, port: 443, type: vmess, uuid: 87692198-6926-4e98-9baf-9198ffd1e73d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: youtube-bai-piao-wang-zhe-us.98848.xyz, network: ws, ws-opts: {path: /youtbue@bai-piao-wang-zhe_vws, headers: {Host: youtube-bai-piao-wang-zhe-us.98848.xyz}}}
+  - {name: https://t.me/dafeiji100 9, server: 4.hk.zz.xxxxx.x-t-fuckword.network, port: 36676, type: vmess, uuid: 244effd9-0204-3c4a-8537-0dca4e5fd9b5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 10, server: youtube-bai-piao-wang-zhe-us.98848.xyz, port: 443, type: trojan, password: 87692198-6926-4e98-9baf-9198ffd1e73d, sni: youtube-bai-piao-wang-zhe-us.98848.xyz, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 11, server: 38.143.66.20, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: https://t.me/dafeiji100 12, server: 172.99.188.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: https://t.me/dafeiji100 13, server: 172.99.188.71, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: https://t.me/dafeiji100 14, server: 172.99.188.71, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: https://t.me/dafeiji100 15, server: youtube-bai-piao-wang-zhe-us.98848.xyz, port: 30355, type: trojan, password: 7pHdS1cNuq, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 16, server: 152.67.207.69, port: 80, type: vmess, uuid: 58cba904-206e-3e03-b61e-e2fa60cede05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 17, server: 172.99.188.71, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: https://t.me/dafeiji100 18, server: cf.fullcloud.tk, port: 2053, type: vmess, uuid: bf67437e-6c90-45ca-abc2-c7240a5ce2aa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /eisasqa, headers: {Host: foxusa.fovi.tk}}}
+  - {name: https://t.me/dafeiji100 19, server: 38.121.43.71, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: https://t.me/dafeiji100 20, server: 38.121.43.71, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: https://t.me/dafeiji100 21, server: pp1.zhengzhongfeizhu.xyz, port: 34004, type: trojan, password: 177501cc-f0c2-3cc3-b9a7-8c1e8e27655f, sni: 111-47-215-139.nhost.00cdn.com, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 22, server: 104.17.22.121, port: 443, type: vmess, uuid: c2b41992-e8eb-40bc-9e2a-4a58c22ab98b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ray, headers: {Host: m3.v2rayfree1.xyz}}}
+  - {name: https://t.me/dafeiji100 23, server: www.fuckdbuy.xyz, port: 57170, type: vmess, uuid: 0fcee849-28e7-4251-87f3-e7cb9d95c00f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 24, server: 38.121.43.71, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: https://t.me/dafeiji100 25, server: 40.83.112.144, port: 38071, type: vmess, uuid: 3e45d2a3-4afe-493e-c959-8607ef562dc1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 26, server: in-us-1.onebox6.org, port: 38401, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: YouTube-aweikeji}}}
+  - {name: https://t.me/dafeiji100 27, server: 150.230.197.142, port: 2052, type: vmess, uuid: c77e9b35-0fdc-4b8b-fe91-e9be523586dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /A, headers: {Host: 150.230.197.142}}}
+  - {name: https://t.me/dafeiji100 28, server: pp1.zhengzhongfeizhu.xyz, port: 34001, type: trojan, password: eb2f8154-ff58-3b99-b393-28c8eecdbe64, sni: 111-47-215-139.nhost.00cdn.com, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 29, server: 38.121.43.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: https://t.me/dafeiji100 30, server: 132.145.113.238, port: 443, type: vmess, uuid: 84b1b846-748c-45ca-839e-4e21f9acc6c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 31, server: 132.145.113.238, port: 443, type: vmess, uuid: 84b1b846-748c-45ca-839e-4e21f9acc6c5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: https://t.me/dafeiji100 32, server: best01.downloadmovie.cn, port: 65069, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /rocket, headers: {Host: best01.downloadmovie.cn}}}
+  - {name: https://t.me/dafeiji100 33, server: best01.downloadmovie.cn, port: 65088, type: vmess, uuid: 0253b574-8020-3186-a647-0267295ac9bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /rocket, headers: {Host: best01.downloadmovie.cn}}}
