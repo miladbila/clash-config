@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"vmess","name":"@VMESSIRANسرورامریکا16مهر","http-opts":{"path":["/"]},"server":"47.243.248.22","port":"38120","uuid":"29d435a4-b7fb-44db-9119-4ede4e22c250","alterId":"0","cipher":"auto","network":"http"}
+  - {"type":"vmess","name":"@VMESSIRANسرورفنلاند14مهر💥","ws-opts":{"path":"/graphql"},"server":"65.108.147.172","port":"80","uuid":"d3e8a80b-8d6b-4cfa-b878-743aac51af40","alterId":"0","cipher":"auto","network":"ws"}
