@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"vmess","name":"@VMESSIRANسرورآلمان17مهر","ws-opts":{"path":"/graphql"},"server":"mahsaproxy.way-of-freedom.com","port":"80","uuid":"b831381d-6324-4d53-ad4f-8cda48b30811","alterId":"0","cipher":"chacha20-poly1305","network":"ws"}
+  - {"type":"vmess","name":"@VMESSIRANسرورهلند17مهر","ws-opts":{"path":"/fastssh/sezarhacks/633be1a74319b/"},"server":"163.172.213.74","port":"80","uuid":"45d0eb68-955c-4760-91cd-fa6bf07b693f","alterId":"0","cipher":"auto","network":"ws"}
