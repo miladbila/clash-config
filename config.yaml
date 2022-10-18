@@ -11,5 +11,3 @@ proxy-groups:
     proxies:
       - milad
       - DIRECT
-rules:
-  - DOMAIN,ckgsir.com,DIRECT
