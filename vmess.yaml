@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"vmess","name":"@VMESSIRANسرورهلند17مهر","ws-opts":{"path":"/fastssh/sezarhacks/633be1a74319b/"},"server":"163.172.213.74","port":"80","uuid":"45d0eb68-955c-4760-91cd-fa6bf07b693f","alterId":"0","cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"server","ws-opts":{"path":"/"},"server":"23.88.58.218","port":41521,"uuid":"d18c2794-2d74-403b-db41-7ef3cf5e5e3b","alterId":0,"cipher":"auto","network":"ws"}
