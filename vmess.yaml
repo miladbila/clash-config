@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"vless","name":"default_name","server":"23.88.58.218","port":433,"uuid":"28006cf4-e6c0-40d3-e84b-b8b9313dafe8","skip-cert-verify":true,"udp":true,"tls":true,"network":"ws","ws-opts":{"path":"/"}}
+  - {"type":"vmess","name":"","ws-opts":{"path":"/"},"server":"23.88.58.218","port":433,"uuid":"fe21ab10-b92d-402f-944d-d817cd5b7a2e","alterId":0,"cipher":"auto","network":"ws"}
