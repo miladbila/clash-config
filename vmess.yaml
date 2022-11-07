@@ -1,2 +1,2 @@
 proxies:
-  - {"type":"vmess","name":"","ws-opts":{"path":"/"},"server":"23.88.58.218","port":433,"uuid":"fe21ab10-b92d-402f-944d-d817cd5b7a2e","alterId":0,"cipher":"auto","network":"ws"}
+  - {"type":"vmess","name":"server","ws-opts":{"path":"/"},"server":"23.88.58.218","port":41522,"uuid":"7c418c23-88ad-4b8d-e5f8-1d9349c00d8a","alterId":0,"cipher":"auto","network":"ws"}
